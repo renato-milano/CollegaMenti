@@ -1,0 +1,210 @@
+@charset "ISO-8859-1";
+
+#Home_Selection {
+  position: fixed; /* or absolute */
+  top: 50%;
+  left: 50%;
+  display:inline;
+}
+.banner{
+	width:100%;
+	height:auto;
+	float: right;
+	
+	
+}
+#AccessBox{
+	float:right;
+}
+
+img.Home_img {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+	}
+
+#PeopleIMG{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+.Presentation{
+	text-align: center;
+	
+}
+#logo {
+  
+  float:left;
+  width: 20%;
+  height: 20%;
+  
+}
+
+.Home_peek a,img,p{
+	display: inline;
+}
+
+.Home_text{
+	color: #0099ff;
+}
+
+.NotifyHeader{
+	float: right;
+	margin-top: 1%;
+	}
+.NotifyHeader a,form{
+	display:inline;
+}	
+	
+.button{
+	background-color: #0099ff;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    text-font: bold verdana;
+    box-shadow: 0 0 5px #888;
+    text-shadow: 2px 2px 2px #ccc;
+    border-radius: 15px;
+    pointer-event:none;
+	}
+.Thread_Box{
+	background-color: #0099ff; 
+  color: #0099ff;
+  width:100%;
+  margin-bottom: 2%;
+  padding: 15px 32px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border: 1px solid;	
+  font: bold verdana;
+  -moz-box-shadow: 0 0 5px #888;
+  -webkit-box-shadow: 0 0 5px#888;
+  box-shadow: 0 0 5px #888;
+  text-shadow: 2px 2px 2px #ccc;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+}
+.Thread_Box a{
+	text-decoration: none;
+}
+#CategoriesForum{
+	margin : 0% 1% 2% 0%;
+	float:left;
+    width:auto;
+    display: inline;
+	
+	
+}
+.MessageBox{
+	width:100%;
+}
+.Title{
+	color: #0099ff;
+}
+#newThreadButton{
+	float:right;
+	display: inline;
+}
+h1,h2{
+    text-shadow: 2px 2px 2px #ccc;
+	font: bold verdana;
+	color: #0099ff;
+		
+}
+.MessageBox p{
+	text-shadow: 2px 2px 2px #ccc;
+	font: bold 12px verdana;
+	color:white;
+}
+.MessageBox {
+    border: 1px solid;
+    margin: 15px 0px;
+    padding:15px 20px 15px 55px;
+    width: 100%;	
+    font: bold 12px verdana;
+    -moz-box-shadow: 0 0 5px #888;
+    -webkit-box-shadow: 0 0 5px#888;
+    box-shadow: 0 0 5px #888;
+    text-shadow: 2px 2px 2px #ccc;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    float :left;
+    background-color: #0099ff;
+}
+.Message_Box{
+	width:100%;
+}
+p{
+	text-shadow: 2px 2px 2px #ccc;
+	font: bold 12px verdana;
+	color:#0099ff;
+}
+#VoteMessage{
+	float:left;
+	width:auto;
+	height:auto;
+	display:inline;
+	margin-top:0.5%;
+	margin-right:0.5%;
+	background-color: #2eff00;
+}
+a{
+	width:100px;
+}
+#ProfileInformation{
+	border: 1px solid;
+    margin: 15px 0px;
+    padding:15px 20px 15px 55px;
+    	
+    font: bold 12px verdana;
+    -moz-box-shadow: 0 0 5px #888;
+    -webkit-box-shadow: 0 0 5px#888;
+    box-shadow: 0 0 5px #888;
+    text-shadow: 2px 2px 2px #ccc;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    background-color: #0099ff;
+	width:20%;
+	margin-bottom:2%;
+	
+}
+#ProfileInformation p{
+	margin-left:1%;
+	font-size:15px;
+	color:white;
+}
+#ShowLinked{
+	float:right;
+	width: 15%;
+}
+.RequestBox{
+	float:left;
+	border-style:outset; 
+	width:50%;
+	border-radius: 15px;
+	background-color: #0099ff;
+	box-shadow: 0 0 5px #888;
+    text-shadow: 2px 2px 2px #ccc;
+}
+.RequestBox p{
+	text-shadow: 2px 2px 2px #ccc;
+	font: bold 12px verdana;
+	color:white;}
+	
+.inputdata{
+	display:table;
+}	
+
+.inputdata p,input{
+	display:table-cell;
+}
